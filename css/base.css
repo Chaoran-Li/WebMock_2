@@ -69,3 +69,7 @@ body {
 .clearfix {
     *zoom: 1
 }
+
+.style_red {
+    color: #c81623;
+}
