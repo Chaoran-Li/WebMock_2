@@ -141,4 +141,35 @@
     margin-left: 10px;
 }
 
+#nav {
+    margin-top: 25px;
+    border-bottom: 2px solid #b1191a;
+}
 
+#nav .nav_left {
+    float: left;
+    width: 210px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    background-color: #b1191a;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+#nav .nav_right {
+    float: left;
+    margin-left: 10px;
+}
+
+#nav .nav_right ul li {
+    float: left;
+    height: 45px;
+    line-height: 45px;
+    margin: 0 25px;
+}
+
+#nav .nav_right ul li a {
+    font-size: 16px;
+    color: #333333;
+}
