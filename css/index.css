@@ -241,6 +241,8 @@
     float: left;
     width: 50px;
     height: 50px;
+    background: url(../images/icons.png) no-repeat -252px -3px;
+    margin-right: 5px;
 }
 
 #footer .services ul li div h3 {
@@ -251,3 +253,46 @@
     font-size: 12px;
 }
 
+#footer .info {
+    height: 190px;
+    border-bottom: 1px solid #ededed;
+}
+
+#footer .info ul li {
+    float: left;
+    width: 200px;
+    height: 190px;
+    padding-left: 50px;
+    padding-top: 22px;
+}
+
+#footer .info ul li h3 {
+    font-size: 16px;
+}
+
+#footer .info ul li h3 div p {
+    font-size: 12px;
+}
+
+#copyright {
+    margin-top: 20px;
+}
+
+#copyright #links {
+    margin-left: 105px;
+}
+
+#copyright ul li {
+    float: left;
+    padding: 0 10px;
+}
+
+#copyright #address {
+    margin-top: 15px;
+    margin-left: 240px;
+}
+
+#copyright #police {
+    margin-top: 15px;
+    margin-left: 467px;
+}
