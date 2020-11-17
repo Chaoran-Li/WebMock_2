@@ -284,15 +284,25 @@
 
 #copyright ul li {
     float: left;
-    padding: 0 10px;
+    font-size: 12px;
+}
+
+#copyright #links ul li:nth-child(even) {
+    width: 1px;
+    height: 12px;
+    margin: 2px 10px 0 10px;
+    background-color: #666666;
 }
 
 #copyright #address {
     margin-top: 15px;
     margin-left: 240px;
+    font-size: 12px;
 }
 
 #copyright #police {
     margin-top: 15px;
     margin-left: 467px;
+    font-size: 12px;
 }
+
